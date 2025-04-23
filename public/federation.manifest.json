@@ -1,0 +1,4 @@
+{
+  "venus": "http://localhost:4300/remoteEntry.json",
+  "mars": "http://localhost:4400/remoteEntry.json"
+}
